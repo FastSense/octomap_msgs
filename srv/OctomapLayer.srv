@@ -1,0 +1,13 @@
+# minimum corner point of axis-aligned bounding box in global frame
+# geometry_msgs/Point min
+# maximum corner point of axis-aligned bounding box in global frame
+# geometry_msgs/Point max
+# uint32 depth
+# float32 resolution
+float32 resolution
+uint32 x_size
+uint32 y_size
+uint32 z_size
+geometry_msgs/Pose origin
+---
+nav_msgs/OccupancyGrid Message
